@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,100:6d28d9&height=180&text=%3E%20hello_world();&fontSize=34&fontColor=e9d5ff&fontAlign=50&fontAlignY=38&desc=HI%20THERE!👋,%20I'M%20DENNISE%20ELIEZA%&descSize=15&descAlignY=62&descAlign=50" width="100%" />
-
+<img src="./assets/header.svg" width="100%" alt="header" />
+ 
 <br>
 
 ![Focus](https://img.shields.io/badge/Focus-Web%20Development-8B5CF6?style=flat&labelColor=1a1425)

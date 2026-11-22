@@ -1,7 +1,9 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDlkamdvZzUwOXJtMzI5Y210NnB2Nmd0bnFsMG1xc245c2ozN200diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/r77sc23Jo1AhlB0uQh/giphy.gif"/>
+
 <div align="center">
 <img src="./assets/header.svg" width="100%" alt="header" />
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDlkamdvZzUwOXJtMzI5Y210NnB2Nmd0bnFsMG1xc245c2ozN200diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/r77sc23Jo1AhlB0uQh/giphy.gif"/>
 <br>
+
 
 ![Focus](https://img.shields.io/badge/Focus-Web%20Development-8B5CF6?style=flat&labelColor=1a1425)
 ![Mindset](https://img.shields.io/badge/Mindset-Code%20%E2%80%A2%20Build%20%E2%80%A2%20Learn-8B5CF6?style=flat&labelColor=1a1425)
